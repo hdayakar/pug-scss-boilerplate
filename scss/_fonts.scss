@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('../fonts/lato/lato-regular.ttf');
+}
+
+@font-face {
+    font-family: 'LatoItalic';
+    src: url('../fonts/lato/lato-italic.ttf');
+}
+
+@font-face {
+    font-family: 'LatoLight';
+    src: url('../fonts/lato/lato-light.ttf');
+}
+
+@font-face {
+    font-family: 'LatoLightItalic';
+    src: url('../fonts/lato/lato-lightitalic.ttf');
+}
+
+@font-face {
+    font-family: 'LatoMedium';
+    src: url('../fonts/lato/lato-medium.ttf');
+}
+
+@font-face {
+    font-family: 'LatoMediumItalic';
+    src: url('../fonts/lato/lato-mediumitalic.ttf');
+}
+
+@font-face {
+    font-family: 'LatoBold';
+    src: url('../fonts/lato/lato-bold.ttf');
+}
+
+@font-face {
+    font-family: 'LatoBoldItalic';
+    src: url('../fonts/lato/lato-bolditalic.ttf');
+}
+
+@font-face {
+    font-family: 'LatoSemibold';
+    src: url('../fonts/lato/lato-semibold.ttf');
+}
+
+@font-face {
+    font-family: 'LatoSemiboldItalic';
+    src: url('../fonts/lato/lato-semibolditalic.ttf');
+}
+
+@font-face {
+    font-family: 'LatoExtraBold';
+    src: url('../fonts/lato/lato-black.ttf');
+}
+
+@font-face {
+    font-family: 'LatoExtraBoldItalic';
+    src: url('../fonts/lato/lato-blackitalic.ttf');
+}
+
+@font-face {
+    font-family: 'Allerbold';
+    src: url('../fonts/aller/Aller_Std_Bd.eot');
+    src: url('../fonts/aller/Aller_Std_Bd.eot') format('embedded-opentype'),
+         url('../fonts/aller/Aller_Std_Bd.woff2') format('woff2'),
+         url('../fonts/aller/Aller_Std_Bd.woff') format('woff'),
+         url('../fonts/aller/Aller_Std_Bd.ttf') format('truetype'),
+         url('../fonts/aller/Aller_Std_Bd.svg#Aller_Std_Bd') format('svg');
+}
+
+$fs:14px;
+$lato-reg: "LatoRegular";
+$lato-itc: "LatoItalic";
+$lato-lt: "LatoLight";
+$lato-lt-itc: "LatoLightItalic";
+$lato-bld: "LatoBold";
+$lato-bldi: "LatoBoldItalic";
+$lato-sbld: "LatoSemibold";
+$lato-sbldi: "LatoSemiboldItalic";
+$lato-xbld: "LatoExtraBold";
+$lato-m: "LatoMedium";
+$lato-m-itc: "LatoMediumItalic";
