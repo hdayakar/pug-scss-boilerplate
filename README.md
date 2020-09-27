@@ -22,7 +22,7 @@ If they are not installed, follow the instructions [here](https://nodejs.org/en/
 `gulp --version`
 ![gulp --version](docs/images/docs-gulp-version-command.png "gulp --version")
 
-Ensure the output matches the screenshot below or you might need to restart the steps in this guide.
+Ensure the output matches the screenshot below.
 
 ### Install the dependencies
 Run this command in the package directory to install all modules listed as dependencies in package.json
