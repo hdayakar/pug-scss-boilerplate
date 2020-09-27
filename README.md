@@ -1,7 +1,7 @@
 # pug-scss-boilerplate
 A quick startup template or boilerplate with pug and scss task runners
 
-## Development environment setup
+## UI Development environment setup
 If you've previously installed gulp globally, run `npm rm --global gulp` before following these instructions.
 For more information, read this [Sip](https://medium.com/gulpjs/gulp-sips-command-line-interface-e53411d4467).
 
